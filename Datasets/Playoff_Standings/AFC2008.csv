@@ -1,0 +1,17 @@
+Tm,W,L,T,Position,Reason
+Tennessee Titans (1),13,3,0,South Champion,
+Pittsburgh Steelers (2),12,4,0,North Champion,
+Miami Dolphins (3),11,5,0,East Champion,conference win percentage
+San Diego Chargers (4),8,8,0,West Champion,division win percentage
+Indianapolis Colts (5),12,4,0,Wild Card #1,
+Baltimore Ravens (6),11,5,0,Wild Card #2,conference win percentage
+New England Patriots,11,5,0,,
+New York Jets,9,7,0,,
+Houston Texans,8,8,0,,win percentage in common games
+Denver Broncos,8,8,0,,
+Buffalo Bills,7,9,0,,
+Oakland Raiders,5,11,0,,conference win percentage
+Jacksonville Jaguars,5,11,0,,
+Cincinnati Bengals,4,11,1,,
+Cleveland Browns,4,12,0,,
+Kansas City Chiefs,2,14,0,,
